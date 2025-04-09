@@ -1,7 +1,3 @@
-
-#1.  Introdução
-
-
 # Previsão de Variação de Ações com Redes Neurais LSTM
 
 O mercado financeiro é altamente volátil, com oscilações de preços que ocorrem de forma imprevisível devido a fatores como notícias econômicas, clima, política e comportamento coletivo dos investidores. Antecipar essas variações é um desafio complexo, mas essencial para analistas e investidores que desejam tomar decisões mais assertivas.
